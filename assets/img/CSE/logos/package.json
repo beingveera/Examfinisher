@@ -1,0 +1,36 @@
+{
+	"name": "programming-languages-logos",
+	"version": "0.0.3",
+	"description": "Programming Languages Logos",
+	"license": "MIT",
+	"repository": "abranhe/programming-languages-logos",
+	"author": {
+		"name": "Abraham Hernandez",
+		"email": "abraham@abranhe.com",
+		"url": "https://abranhe.com"
+	},
+	"homepage": "https://languages.abranhe.com",
+	"files": [ "src/" ],
+	"keywords": [
+		"programming",
+		"programming-languages",
+		"logos",
+		"design",
+		"programming-logos",
+		"programming-languages-logos",
+		"c",
+		"java",
+		"javascript",
+		"cpp",
+		"ruby",
+    "go",
+    "html",
+    "lua",
+    "php",
+    "swift",
+    "typescript",
+    "haskell",
+    "r",
+    "css"
+	]
+}
